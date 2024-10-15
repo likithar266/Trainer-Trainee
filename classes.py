@@ -13,7 +13,6 @@ class Organization:
     def getNumOfTrainees(self) -> int:
         return len(self.trainees)
 
-
 # Trainer class
 class Trainer:
     def __init__(self, name, organization):
