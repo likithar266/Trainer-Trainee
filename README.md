@@ -12,16 +12,6 @@ This Python program models a **Trainer-Trainee relationship** using Object-Orien
 - **Unit**: Each unit has a name and a duration in hours.
 - **Training**: Manages the course, trainees, trainer, and calculates the total training duration.
 
-## Classes Overview
-
-- `Organization`: Stores the organization's name.
-- `Trainer`: Holds trainer details and links the trainer to an organization.
-- `Trainee`: Stores the name of each trainee.
-- `Course`: Contains the course name and its modules.
-- `Module`: Holds the list of units for each module.
-- `Unit`: Defines a unit of the module with a specific duration in hours.
-- `Training`: Tracks the trainees, course, and calculates the total duration of the training.
-
 ## Example Output
 ```bash
 Number of Trainees: 2
