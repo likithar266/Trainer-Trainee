@@ -24,6 +24,6 @@ This Python program models a **Trainer-Trainee relationship** using Object-Orien
 
 ## Example Output
 ```bash
-- **Number of Trainees:** 2
-- **Training Organization Name:** Sahyadri
-- **Total Training Duration:** 5 hours
+Number of Trainees: 2
+Training Organization Name: Sahyadri
+Total Training Duration: 5 hours
