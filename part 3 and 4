@@ -1,0 +1,24 @@
+class topic:
+    def _init_(self,name):
+        self.name=name
+class units:
+    def _init_ (self,duration):
+        self.duration=duration
+        self.topic=[]
+    def add_topic(self,topic):
+        self.topic.append(topic)
+        return self.duration
+class module:
+    def _init_ (self,):
+       self.units=[] 
+    def add_unit(self,unit):
+         self.units.append(units)
+    def get_unit(self):
+        return self.units
+class course:
+    def _init_ (self):
+        self.module=[]
+    def add_module(self,module):
+         self.module.append(module)
+    def get_module(self):
+        return self.module
