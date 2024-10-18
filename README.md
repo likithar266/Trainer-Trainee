@@ -23,7 +23,7 @@ This Python program models a **Trainer-Trainee relationship** using Object-Orien
 - `Training`: Tracks the trainees, course, and calculates the total duration of the training.
 
 ## Example Output
-
+```bash
 - **Number of Trainees:** 2
 - **Training Organization Name:** Sahyadri
 - **Total Training Duration:** 5 hours
